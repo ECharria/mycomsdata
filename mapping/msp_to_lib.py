@@ -148,6 +148,10 @@ def record_to_massbank(record: dict, accession_prefix: str, index: int) -> Tuple
         f"AC$MASS_SPECTROMETRY: MS_TYPE MS{record.get('MS_LEVEL')}",
         f"AC$MASS_SPECTROMETRY: ION_MODE {record.get('IONMODE')}",
         f"AC$MASS_SPECTROMETRY: COLLISION_ENERGY {record.get('COL_ENERGY1')}",
+        *(
+            [f"AC$MASS_SPECTROMETRY: CCS {record['CCS']}"]
+            if record.get("CCS") is not None else []
+        ),
         f"MS$FOCUSED_ION: PRECURSOR_M/Z {record.get('PRECURSOR_MZ')}",
         "MS$DATA_PROCESSING: Converted with convert_msp_to_massbank.py",
         # --- SPLASH ---------------------------------------------------------
