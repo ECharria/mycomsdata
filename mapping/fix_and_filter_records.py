@@ -56,6 +56,26 @@ def parse_args():
     return ap.parse_args()
 
 
+def is_uniform_intensity(text: str) -> bool:
+    """Return True if all peaks have the same intensity (noise spectrum)."""
+    in_peaks = False
+    intensities = []
+    for line in text.splitlines():
+        if line.startswith('PK$PEAK:'):
+            in_peaks = True
+            continue
+        if in_peaks:
+            if line.startswith('//') or line.startswith('PK$'):
+                break
+            parts = line.split()
+            if len(parts) >= 2:
+                try:
+                    intensities.append(float(parts[1]))
+                except ValueError:
+                    pass
+    return len(intensities) > 1 and len(set(intensities)) == 1
+
+
 def read_fields(text: str) -> dict:
     """Extract relevant scalar fields from a MassBank3 text."""
     d = {}
@@ -130,6 +150,7 @@ def main():
     # ---- Pass 1: filter by required fields and collect field data ----
     retained = []
     filtered_out = 0
+    uniform_excluded = 0
     for fpath in files:
         text = fpath.read_text()
         lines = text.splitlines()
@@ -137,9 +158,12 @@ def main():
         if missing:
             filtered_out += 1
             continue
+        if is_uniform_intensity(text):
+            uniform_excluded += 1
+            continue
         retained.append((fpath, text))
 
-    print(f"After field filter:  {len(retained)} kept, {filtered_out} excluded")
+    print(f"After field filter:  {len(retained)} kept, {filtered_out} excluded (missing fields), {uniform_excluded} excluded (uniform intensity)")
 
     # ---- Pass 2: deduplicate by SPLASH (keep lowest accession) ----
     splash_groups = defaultdict(list)
