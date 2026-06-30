@@ -1,5 +1,5 @@
 ACCESSION: MycoMSB-HZI-000081
-RECORD_TITLE: 6"-hidroxymitorubrinol acetate; ESI-Q-TOF; MS2; CE:46.2; [M+H]+
+RECORD_TITLE: 6"-hidroxymitorubrinol acetate; timsTOF; MS2; CE:46.2; [M+H]+
 DATE: 2025.08.05
 AUTHORS: Unknown
 LICENSE: CC BY

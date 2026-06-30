@@ -1,5 +1,5 @@
 ACCESSION: MycoMSB-HZI-000058
-RECORD_TITLE: (3aS,8R)-3a,5,5,8-tetramethyl-3,3a,4,5,7,8-hexahydro-1Hcyclopenta[de]isochromen-1-one; ESI-Q-TOF; MS2; CE:35.112; [M+H]+
+RECORD_TITLE: (3aS,8R)-3a,5,5,8-tetramethyl-3,3a,4,5,7,8-hexahydro-1Hcyclopenta[de]isochromen-1-one; timsTOF; MS2; CE:35.112; [M+H]+
 DATE: 2025.08.05
 AUTHORS: Unknown
 LICENSE: CC BY

@@ -1,5 +1,5 @@
 ACCESSION: MycoMSB-HZI-000022
-RECORD_TITLE: 6"-hidroxymitorubrinol; ESI-Q-TOF; MS2; CE:46.2; [M+H]+
+RECORD_TITLE: 6"-hidroxymitorubrinol; timsTOF; MS2; CE:46.2; [M+H]+
 DATE: 2025.08.05
 AUTHORS: Unknown
 LICENSE: CC BY
