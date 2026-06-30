@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000209
 RECORD_TITLE: Cytochalasin B4; timsTOF; MS2; CE:30.0; [M+H-H2O]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Phoma sp.

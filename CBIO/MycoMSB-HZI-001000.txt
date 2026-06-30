@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-001000
 RECORD_TITLE: Mycophenolic acid; timsTOF; MS2; CE:31.930232558139537; [M+H-2H2O]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Aspergillus sp.

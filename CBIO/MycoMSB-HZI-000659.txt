@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000659
 RECORD_TITLE: Hericerin; timsTOF; MS2; CE:42.06976744186046; [2M+H]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Hericium erinaceum

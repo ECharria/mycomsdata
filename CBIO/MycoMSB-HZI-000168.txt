@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000168
 RECORD_TITLE: (3aS,8R)-3a,5,5,8-tetramethyl-3,3a,4,5,7,8-hexahydro-1Hcyclopenta[de]isochromen-1-one; timsTOF; MS2; CE:35.112; [M+H]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Hypoxylon rickii

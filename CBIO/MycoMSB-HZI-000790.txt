@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000790
 RECORD_TITLE: Sparticolin E; timsTOF; MS2; CE:33.18604651162791; [M+H]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Sparticola junci

@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000435
 RECORD_TITLE: Rhodocorane A; timsTOF; MS2; CE:33.651162790697676; [M+Na]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Rhodotus palmatus

@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000250
 RECORD_TITLE: Aspochalasin D; timsTOF; MS2; CE:30.0; [M+H-2H2O]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Aspergillus niveus

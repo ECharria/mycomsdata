@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000131
 RECORD_TITLE: Mitorubrinic acid; timsTOF; MS2; CE:40.656; [M+H]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Hypoxylon fragiforme

@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000925
 RECORD_TITLE: Pseurotin A; timsTOF; MS2; CE:40.0; [2M+Na]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Aspergillus fumigatus WFZ-25

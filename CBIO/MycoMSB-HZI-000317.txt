@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000317
 RECORD_TITLE: Aspyrone; timsTOF; MS2; CE:39.348837209302324; [2M+Na]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Exophiala sp.

@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000368
 RECORD_TITLE: Fulvoferruginin; timsTOF; MS2; CE:32.25581395348837; [M+H-H2O]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Gymnopus sp. 0612-9

@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000886
 RECORD_TITLE: Heimiomycin A; timsTOF; MS2; CE:43.395348837209305; [2M+Na]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Heimiomyces sp. (MUCL 56078)

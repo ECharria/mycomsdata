@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000852
 RECORD_TITLE: Corallocin B; timsTOF; MS2; CE:35.627906976744185; [M+H]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Hericium coralloides

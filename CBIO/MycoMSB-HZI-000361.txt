@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000361
 RECORD_TITLE: Pseurotin A4; timsTOF; MS2; CE:42.04651162790698; [2M+Na]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Wilsonomyces carpophilus

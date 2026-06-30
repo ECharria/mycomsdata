@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000599
 RECORD_TITLE: Dicerandrol B; timsTOF; MS2; CE:38.30232558139535; [M+K]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Penicillium sp. CR1642D

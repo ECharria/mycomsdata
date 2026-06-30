@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000366
 RECORD_TITLE: Alternariol; timsTOF; MS2; CE:37.116279069767444; [2M+Na]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Alternaria tenuis

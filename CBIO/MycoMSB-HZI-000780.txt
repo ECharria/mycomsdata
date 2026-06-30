@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000780
 RECORD_TITLE: Pestabacillin B; timsTOF; MS2; CE:32.02325581395349; [M+Na]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Unknown-bacterium sp.

@@ -1,7 +1,7 @@
 ACCESSION: MycoMSB-HZI-000901
 RECORD_TITLE: Pigmentosin A; timsTOF; MS2; CE:43.13953488372093; [2M+Na]+
 DATE: 2026.06.26
-AUTHORS: Charrià-Girón E, Surup F
+AUTHORS: Unknown
 LICENSE: CC BY
 COPYRIGHT: Helmholtz Centre for Infection Research (HZI)
 SP$SCIENTIFIC_NAME: Hypotrachyna immaculata
