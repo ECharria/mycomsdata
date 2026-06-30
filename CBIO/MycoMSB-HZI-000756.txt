@@ -1,5 +1,5 @@
 ACCESSION: MycoMSB-HZI-000756
-RECORD_TITLE: Microporenic acid A; timsTOF; MS2; CE:35.06976744186046; [M+2Na-H]+
+RECORD_TITLE: Microporenic acid A; timsTOF; MS2; CE:35.1; [M+2Na-H]+
 DATE: 2026.06.26
 AUTHORS: Unknown
 LICENSE: CC BY

@@ -1,5 +1,5 @@
 ACCESSION: MycoMSB-HZI-000305
-RECORD_TITLE: Cryptoporic acid H; timsTOF; MS2; CE:35.6046511627907; [M+Na]+
+RECORD_TITLE: Cryptoporic acid H; timsTOF; MS2; CE:35.6; [M+Na]+
 DATE: 2026.06.26
 AUTHORS: Unknown
 LICENSE: CC BY

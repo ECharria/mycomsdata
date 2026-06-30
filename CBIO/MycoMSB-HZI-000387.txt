@@ -1,5 +1,5 @@
 ACCESSION: MycoMSB-HZI-000387
-RECORD_TITLE: Cladospirone bisepoxide; timsTOF; MS2; CE:34.06976744186046; [M+H-H2O]+
+RECORD_TITLE: Cladospirone bisepoxide; timsTOF; MS2; CE:34.1; [M+H-H2O]+
 DATE: 2026.06.26
 AUTHORS: Unknown
 LICENSE: CC BY

@@ -1,5 +1,5 @@
 ACCESSION: MycoMSB-HZI-000314
-RECORD_TITLE: Pseudoanguillosporin A; timsTOF; MS2; CE:33.418604651162795; [M+H-H2O]+
+RECORD_TITLE: Pseudoanguillosporin A; timsTOF; MS2; CE:33.4; [M+H-H2O]+
 DATE: 2026.06.26
 AUTHORS: Unknown
 LICENSE: CC BY

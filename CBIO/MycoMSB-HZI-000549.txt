@@ -1,5 +1,5 @@
 ACCESSION: MycoMSB-HZI-000549
-RECORD_TITLE: 10-Oxodehydrodihydrobotrydial; timsTOF; MS2; CE:30.3953488372093; [M+H-H2O]+
+RECORD_TITLE: 10-Oxodehydrodihydrobotrydial; timsTOF; MS2; CE:30.4; [M+H-H2O]+
 DATE: 2026.06.26
 AUTHORS: Unknown
 LICENSE: CC BY

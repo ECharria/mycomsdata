@@ -1,5 +1,5 @@
 ACCESSION: MycoMSB-HZI-000444
-RECORD_TITLE: Dehydrosulphurenic acid; timsTOF; MS2; CE:38.116279069767444; [M+H-2H2O]+
+RECORD_TITLE: Dehydrosulphurenic acid; timsTOF; MS2; CE:38.1; [M+H-2H2O]+
 DATE: 2026.06.26
 AUTHORS: Unknown
 LICENSE: CC BY

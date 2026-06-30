@@ -1,5 +1,5 @@
 ACCESSION: MycoMSB-HZI-000414
-RECORD_TITLE: Dihydropleurotinic acid; timsTOF; MS2; CE:34.53488372093023; [M+H]+
+RECORD_TITLE: Dihydropleurotinic acid; timsTOF; MS2; CE:34.5; [M+H]+
 DATE: 2026.06.26
 AUTHORS: Unknown
 LICENSE: CC BY
