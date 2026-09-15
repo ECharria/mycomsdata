@@ -132,7 +132,14 @@ def load_excel(path: Path) -> Dict[int, dict]:
 # Parser for the Bruker .library format
 # ---------------------------------------------------------------------------
 def parse_library(path: Path) -> List[dict]:
-    text = path.read_text(encoding='utf-8', errors='replace')
+    # MetaboScape .library exports are latin-1 (e.g. 0xB4 ACUTE ACCENT in names).
+    # Reading them as UTF-8 corrupts those characters, so try UTF-8 first and
+    # fall back to latin-1 rather than replacing bytes with U+FFFD.
+    raw = path.read_bytes()
+    try:
+        text = raw.decode('utf-8')
+    except UnicodeDecodeError:
+        text = raw.decode('latin-1')
     lines = [l.rstrip('\r\n') for l in text.splitlines()]
 
     records: List[dict] = []

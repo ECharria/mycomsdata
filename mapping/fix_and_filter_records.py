@@ -95,12 +95,25 @@ def read_fields(text: str) -> dict:
     return d
 
 
-def derive_adduct(prec_mz: float, exact_mass: float):
-    """Return (best_adduct, diff_da) for the closest matching adduct."""
+def derive_adduct(prec_mz: float, exact_mass: float, ion_mode: str = ''):
+    """Return (best_adduct, diff_da) for the closest matching adduct.
+
+    If ion_mode is given ('POSITIVE'/'NEGATIVE'), only adducts of the matching
+    polarity are considered, so a positive-mode spectrum can never be assigned a
+    negative-mode adduct on mass coincidence alone.
+    """
     best_adduct = None
     best_diff = 999.0
 
+    mode = (ion_mode or '').strip().upper()
+    def polarity_ok(a):
+        if mode.startswith('POS'): return a.endswith('+')
+        if mode.startswith('NEG'): return a.endswith('-')
+        return True
+
     for adduct, offset in ADDUCTS.items():
+        if not polarity_ok(adduct):
+            continue
         diff = abs(prec_mz - (exact_mass + offset))
         if diff < best_diff:
             best_diff = diff
@@ -108,6 +121,8 @@ def derive_adduct(prec_mz: float, exact_mass: float):
 
     # Check dimers
     for adduct, offset in DIMER_ADDUCTS.items():
+        if not polarity_ok(adduct):
+            continue
         diff = abs(prec_mz - (2 * exact_mass + offset))
         if diff < best_diff:
             best_diff = diff
@@ -196,7 +211,7 @@ def main():
             continue
 
         current_adduct = d.get('adduct', '[M+H]+')
-        best_adduct, best_diff = derive_adduct(prec, mass)
+        best_adduct, best_diff = derive_adduct(prec, mass, d.get('ion_mode', ''))
 
         if best_diff > TOL:
             adduct_unknown.append({
