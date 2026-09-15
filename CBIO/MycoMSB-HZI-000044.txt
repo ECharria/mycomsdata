@@ -6,7 +6,7 @@ LICENSE: CC BY
 COPYRIGHT: Unknown
 PUBLICATION: doi:10.1016/j.phytochem.2015.06.002
 COMMENT: Converted from MSP
-CH$NAME: (3aS)-7-hydroxy-3a,5,5,8-tetramethyl-3,3a,4,5-tetrahydro-1Hcyclopenta[de]isochromen-1-one
+CH$NAME: 10-Oxodehydrodihydrobotrydial
 CH$COMPOUND_CLASS: Terpenoids
 CH$FORMULA: C15H18O2
 CH$EXACT_MASS: 230.1307
